@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @azadsimhab
-- 👀 I’m interested in CFD
-- 🌱 I’m currently learning CFD
-- 💞️ I’m looking to collaborate on OpenFoam
+- 👀 I’m interested in Analysing
+- 🌱 I’m currently learning python for data Analytics 
 - 📫 How to reach me b.azadsimha@gmail.com
 
 <!---
